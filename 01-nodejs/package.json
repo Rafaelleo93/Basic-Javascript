@@ -1,0 +1,17 @@
+{
+  "name": "01-nodejs",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node en Open Bootcamp",
+  "main": "first_project.js",
+  "scripts": {
+    "hello": "node hello_world.js",
+    "project": "node first_project.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HelloWorld!",
+    "FirstProject"
+  ],
+  "author": "Rafael Miranda Neto",
+  "license": "ISC"
+}
