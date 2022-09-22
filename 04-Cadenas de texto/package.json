@@ -1,0 +1,12 @@
+{
+  "name": "04-cadenas-de-texto",
+  "version": "1.0.0",
+  "description": "Ejercicio 4 OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Leonardo Miranda Neto",
+  "license": "ISC"
+}
