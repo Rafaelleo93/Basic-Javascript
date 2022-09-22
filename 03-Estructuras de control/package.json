@@ -1,0 +1,14 @@
+{
+  "name": "03-estructuras-de-control",
+  "version": "1.0.0",
+  "description": "Ejercicio 3 OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "for": "node factorial-for.js",
+    "while": "node factorial-while.js",
+    "break": "node factorial-break.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Leonardo Miranda Neto",
+  "license": "ISC"
+}

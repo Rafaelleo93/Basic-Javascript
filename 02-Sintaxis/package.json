@@ -7,6 +7,6 @@
     "start": "node info.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rafael Leonardo Miranda Neto",
   "license": "ISC"
 }
